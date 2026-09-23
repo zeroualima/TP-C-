@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zeroualima/Desktop/TP C++/CPPMA-Fall2026-Lab2/build",
+  "command": "/usr/bin/g++   -Wall -Wextra -g -g -std=gnu++17 -o CMakeFiles/test.dir/test.cxx.o -c \"/home/zeroualima/Desktop/TP C++/CPPMA-Fall2026-Lab2/test.cxx\"",
+  "file": "/home/zeroualima/Desktop/TP C++/CPPMA-Fall2026-Lab2/test.cxx",
+  "output": "CMakeFiles/test.dir/test.cxx.o"
+}
+]

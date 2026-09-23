@@ -1,0 +1,45 @@
+--- Test pour 64 particules ---
+std::vector : 0.000668881s
+std::list   : 0.000490674s
+std::deque  : 0.00046098s
+
+--- Test pour 128 particules ---
+std::vector : 0.000846282s
+std::list   : 0.000760503s
+std::deque  : 0.000790675s
+
+--- Test pour 256 particules ---
+std::vector : 0.00128029s
+std::list   : 0.00112937s
+std::deque  : 0.00137581s
+
+--- Test pour 512 particules ---
+std::vector : 0.0024393s
+std::list   : 0.00203761s
+std::deque  : 0.00162295s
+
+--- Test pour 1024 particules ---
+std::vector : 0.00284763s
+std::list   : 0.00373861s
+std::deque  : 0.00280858s
+
+--- Test pour 2048 particules ---
+std::vector : 0.00476216s
+std::list   : 0.00358006s
+std::deque  : 0.00381538s
+
+--- Test pour 10000 particules ---
+std::vector : 0.017784s
+std::list   : 0.0186416s
+std::deque  : 0.0179345s
+
+--- Test pour 100000 particules ---
+std::vector : 0.173459s
+std::list   : 0.164651s
+std::deque  : 0.160242s
+
+--- Test pour 1000000 particules ---
+std::vector : 2.19796s
+std::list   : 1.72838s
+std::deque  : 1.71001s
+

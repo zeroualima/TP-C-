@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -g CMakeFiles/edo.dir/edo.cxx.o -o edo 

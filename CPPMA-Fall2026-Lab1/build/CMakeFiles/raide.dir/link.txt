@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -g CMakeFiles/raide.dir/raide.cxx.o -o raide 
